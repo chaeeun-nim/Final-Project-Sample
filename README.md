@@ -40,3 +40,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ### 목적
 
 - 멋사 프론트엔드 부트캠프 프로젝트 시작전, 혼자 배포 및 마일스톤/라벨 등 기타 관리 학습을 목적으로한 레파지토리입니다.
+- 이슈종료 테스트를 위해 추가한 텍스트 입니다.
